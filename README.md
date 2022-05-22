@@ -23,5 +23,5 @@
 <br>
  <li> <b> Objetivo: </b> Crear un programas en C que calculen el salario de una persona y conviertan °c a °f.  </li>
  <br>
- <li><b> Breve descripción: </b> Programa en C que es la tarea 4 que realiza distintos calculos como convertir la temperatura para la materia programacion estrcuturada.
+ <li><b> Breve descripción: </b> Programa en C que es la tarea 4 que realiza distintos calculos como convertir la temperatura para la materia programacion estructurada.
  </li>
