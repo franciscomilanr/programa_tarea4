@@ -13,7 +13,12 @@
 	 <li> Entrada de datos con scanf</li>
 	 <li> Salida de datos con printf </li>
 	<li>Librerias </li>
- 	<li>	 </li>
+ 	<li>Operacion matematicas </li>
+	<li>Uso de do while</li>
+	<li>Uso de else if </li>
+	<li>Uso de break </li>
+	<li>Uso de valores flotante </li>
+	<li>Uso de valores entero </li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear un programas en C que calculen el salario de una persona y conviertan °c a °f  </li>
